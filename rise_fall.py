@@ -1,14 +1,10 @@
 # import the libraries
-import tushare as ts
+
 # import pandas as pd
 # import numpy as np
 
 
-# get normal stock code
-ind = ts.get_industry_classified()
-# is_st = ts.get_st_classified()
-# stop = ts.get_terminated()
-# pause = ts.get_suspended()
+
 
 def fall_counts(stock):
 
